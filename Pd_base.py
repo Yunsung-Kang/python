@@ -30,3 +30,6 @@ df3= pd.DataFrame({
 # 시각화
 plt.boxplot(df)
 plt.show()
+
+plt.plot(df)
+plt.show()
